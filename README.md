@@ -11,9 +11,7 @@
 7.	To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8.	Stop the program. 
 # PROGRAM
-
 ```
-
 #include<stdio.h>                                                                                                                                                                          
 #include <ctype.h>                                                                                                                                                                          
 #include <string.h>                                                                                                                                                                        
@@ -84,11 +82,11 @@ int main() {
 
     return 0;
 }
-
 ```
 # OUTPUT
 
 ![Screenshot 2024-10-10 081546](https://github.com/user-attachments/assets/c20c0e90-1f50-4578-bf2f-36acd79e6f0a)
 
 # RESULT
+
 ### The program to implement a symbol table is executed and the output is verified.
